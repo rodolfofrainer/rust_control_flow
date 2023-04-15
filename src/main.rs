@@ -25,9 +25,21 @@ fn main() {
     //     num += 1;
     // }
 
-    let mut num = 0;
-    while num <5{
-        println!("Num: {}", num);
-        num +=1;
-    }
+    // let mut num = 0;
+    // while num <5{
+    //     println!("Num: {}", num);
+    //     num +=1;
+    // }
+
+    // let vec: Vec<i8> = (0..10).collect();
+
+    // for element in vec{
+    //     println!("{}", element);
+    // }
+
+    // for number in (1..4).rev(){
+    //     println!("{}", number);
+    // }
+    // println!("Liftoff!")
+
 }
